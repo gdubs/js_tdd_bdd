@@ -1,0 +1,13 @@
+{
+    "accounts": [
+        { "id": 1, "firstName": "Jane", "lastName":"Ereens"},
+        { "id": 2, "firstName": "Karen", "lastName":"Doyle"}
+    ],
+    "transactions" : [
+        { "id": 11, "accountId": 2, "amount": 900, "type": "Deposit" },
+        { "id": 12, "accountId": 2, "amount": 100, "type": "Deposit" },
+        { "id": 13, "accountId": 1, "amount": 300, "type": "Deposit" },
+        { "id": 14, "accountId": 1, "amount": 200, "type": "Deposit" },
+        { "id": 15, "accountId": 1, "amount": 700, "type": "Withdrawal" }
+    ]
+}
